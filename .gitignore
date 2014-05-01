@@ -1,0 +1,21 @@
+# Editors
+*~
+*.bak
+*.kate-swp
+*.swp
+
+# Python
+__pycache__
+*.pyc
+*.pyo
+.ropeproject
+
+# Translation:
+*.h
+*.mo
+*.pot
+
+# Packaging
+build
+dist
+MANIFEST
